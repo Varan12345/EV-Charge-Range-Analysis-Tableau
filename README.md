@@ -22,3 +22,7 @@ The dashboard analyzes electric vehicle performance based on:
 ## Tableau Public Dashboard Link
 View the interactive dashboard here:
 https://public.tableau.com/app/profile/varan.singh/viz/EVChargeRangeAnalysisDashbored/Dashboard1?publish=yes
+
+## Project Demo Video
+
+[Watch the Project Screen Recording](https://drive.google.com/file/d/1V3qI5NocvAdRBRB-IwAg0-gBQ6U-HVqZ/view?usp=sharing)
